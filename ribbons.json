@@ -2,7 +2,7 @@
 	{
 		"id": "medal_of_valor",
 		"name": "Medal of Valor",
-		"description": "The highest law enforcement medal. Awarded for individual acts of extraordinary bravery or heroism performed in the line of duty at extreme and life-threatening personal risk.",
+		"description": "La más alta condecoración policial. Otorgada por actos individuales de extraordinaria valentía o heroísmo realizados en el cumplimiento del deber con riesgo extremo para la vida.",
 		"image": "https://static.wikia.nocookie.net/thecloser/images/0/07/LAPD-Medal-of-Valor.svg/revision/latest/scale-to-width-down/120?cb=20231015125128",
 		"max-width": "120px",
 		"max-height": "40px"
@@ -10,7 +10,7 @@
 	{
 		"id": "preservation_of_life",
 		"name": "Preservation of Life Medal",
-		"description": "Awarded to an officer who has distinguished himself or herself by employing exceptional tactics and exercising sound judgment, beyond the normal demands of duty, to preserve the life of another.",
+		"description": "Otorgada al oficial que se haya distinguido por emplear tácticas excepcionales y ejercer un juicio acertado, más allá de las exigencias normales del servicio, para preservar la vida de otra persona.",
 		"image": "https://static.wikia.nocookie.net/thecloser/images/c/cd/LAPD-Preservation-of-Life-Medal.svg/revision/latest/scale-to-width-down/120?cb=20231015125619",
 		"max-width": "120px",
 		"max-height": "40px"
@@ -18,7 +18,7 @@
 	{
 		"id": "distinguished_service",
 		"name": "Police Distinguished Service Medal",
-		"description": "The department's highest award for service. Awarded to employees who distinguish themselves by performing exceptional service in a duty of great responsibility or of critical importance to law enforcement.",
+		"description": "La más alta condecoración del departamento por servicio. Otorgada a empleados que se distinguen por desempeñar un servicio excepcional en funciones de gran responsabilidad o de importancia crítica para la aplicación de la ley.",
 		"image": "https://static.wikia.nocookie.net/thecloser/images/1/12/LAPD-Police-Distinguished-Service-Medal.svg/revision/latest/scale-to-width-down/120?cb=20231015130547",
 		"max-width": "120px",
 		"max-height": "40px"
@@ -26,7 +26,7 @@
 	{
 		"id": "commission_unit_citation",
 		"name": "Police Commission Unit Citation",
-		"description": "The department's highest unit award. Awarded to an organizational unit for bravery or outstanding service by its members functioning as a team.",
+		"description": "La más alta condecoración de unidad del departamento. Otorgada a una unidad organizativa por la valentía o el servicio sobresaliente de sus miembros actuando como equipo.",
 		"image": "https://static.wikia.nocookie.net/thecloser/images/4/46/LAPD-Police-Commission-Unit-Citation.svg/revision/latest/scale-to-width-down/120?cb=20231015132349",
 		"max-width": "120px",
 		"max-height": "40px"
@@ -34,7 +34,7 @@
 	{
 		"id": "police_medal",
 		"name": "Police Medal",
-		"description": "Awarded for individual acts of heroism in the line of duty, though not above and beyond the call of duty as required for the Medal of Valor.",
+		"description": "Otorgada por actos individuales de heroísmo en el cumplimiento del deber, aunque sin alcanzar el nivel de sacrificio exigido para la Medal of Valor.",
 		"image": "https://static.wikia.nocookie.net/thecloser/images/3/3d/LAPD-Police-Medal.svg/revision/latest/scale-to-width-down/120?cb=20231015125855",
 		"max-width": "120px",
 		"max-height": "40px"
@@ -42,15 +42,23 @@
 	{
 		"id": "purple_heart",
 		"name": "Purple Heart",
-		"description": "Awarded to officers who sustain a traumatic physical injury as a result of a suspect's actions during an on-duty tactical situation. Can also be awarded posthumously.",
+		"description": "Otorgada a oficiales que sufren una lesión física traumática como resultado de las acciones de un sospechoso durante una situación táctica en servicio. Tambi\u00e9n puede otorgarse de manera póstuma.",
 		"image": "https://static.wikia.nocookie.net/thecloser/images/1/12/LAPD-Purple-Heart-Ribbon.svg/revision/latest/scale-to-width-down/120?cb=20231015141559",
+		"max-width": "120px",
+		"max-height": "40px"
+	},
+	{
+		"id": "liberty_award",
+		"name": "Liberty Award",
+		"description": "Otorgada a los K-9 del LAPD que resultan muertos o gravemente heridos en el cumplimiento del deber. Nombrada en honor a K-9 Liberty, quien fue abatido durante un incidente en servicio.",
+		"image": "https://static.wikia.nocookie.net/thecloser/images/.../LAPD-Liberty-Award.svg",
 		"max-width": "120px",
 		"max-height": "40px"
 	},
 	{
 		"id": "meritorious_service",
 		"name": "Police Meritorious Service Medal",
-		"description": "Awarded for performing exceptional service in a duty of great responsibility, but to a lesser degree than required for the Distinguished Service Medal.",
+		"description": "Otorgada por desempeñar un servicio excepcional en funciones de gran responsabilidad, aunque en menor grado que el requerido para la Distinguished Service Medal.",
 		"image": "https://static.wikia.nocookie.net/thecloser/images/a/a4/LAPD-Police-Meritorious-Service-Medal.svg/revision/latest/scale-to-width-down/120?cb=20231017184142",
 		"max-width": "120px",
 		"max-height": "40px"
@@ -58,7 +66,7 @@
 	{
 		"id": "meritorious_achievement",
 		"name": "Police Meritorious Achievement Medal",
-		"description": "Awarded for sustained long-term noteworthy achievement or a single significant noteworthy achievement in the execution of duties.",
+		"description": "Otorgada por logros destacados sostenidos a largo plazo o por un logro individual significativo en el ejercicio de las funciones.",
 		"image": "https://static.wikia.nocookie.net/thecloser/images/d/d2/LAPD-Police-Meritorious-Achievement-Medal.svg/revision/latest/scale-to-width-down/120?cb=20231015131506",
 		"max-width": "120px",
 		"max-height": "40px"
@@ -66,7 +74,7 @@
 	{
 		"id": "meritorious_unit_citation",
 		"name": "Police Meritorious Unit Citation",
-		"description": "Awarded to an organizational unit for bravery or outstanding service by its members functioning as a team, to a lesser degree than the Commission Unit Citation.",
+		"description": "Otorgada a una unidad organizativa por la valentía o el servicio sobresaliente de sus miembros actuando como equipo, en menor grado que la Commission Unit Citation.",
 		"image": "https://static.wikia.nocookie.net/thecloser/images/f/ff/LAPD-Police-Meritorious-Unit-Citation.svg/revision/latest/scale-to-width-down/120?cb=20231017192419",
 		"max-width": "120px",
 		"max-height": "40px"
@@ -74,7 +82,7 @@
 	{
 		"id": "police_star",
 		"name": "Police Star",
-		"description": "Awarded for performing with exceptional judgment and/or utilizing skillful tactics in order to defuse dangerous and stressful situations.",
+		"description": "Otorgada por actuar con juicio excepcional y/o emplear tácticas hábiles para desactivar situaciones peligrosas y de alta tensión.",
 		"image": "https://static.wikia.nocookie.net/thecloser/images/6/6d/LAPD-Police-Star.svg/revision/latest/scale-to-width-down/120?cb=20231017182651",
 		"max-width": "120px",
 		"max-height": "40px"
@@ -82,7 +90,7 @@
 	{
 		"id": "lifesaving",
 		"name": "Lifesaving Medal",
-		"description": "Awarded for taking action in order to rescue or attempt the rescue of either a fellow officer or any person from imminent danger.",
+		"description": "Otorgada por tomar acción para rescatar o intentar rescatar a un compañero oficial o a cualquier persona en peligro inminente.",
 		"image": "https://static.wikia.nocookie.net/thecloser/images/3/32/LAPD-Lifesaving-Medal.svg/revision/latest/scale-to-width-down/120?cb=20231015130416",
 		"max-width": "120px",
 		"max-height": "40px"
@@ -90,7 +98,7 @@
 	{
 		"id": "commission_distinguished_service",
 		"name": "Police Commission Distinguished Service Medal",
-		"description": "Awarded for performing exceptional service to the LAPD or performing in a stressful emergency situation with good judgment and bravery.",
+		"description": "Otorgada por prestar un servicio excepcional al LAPD o por actuar en una situación de emergencia con buen juicio y valentía.",
 		"image": "https://static.wikia.nocookie.net/thecloser/images/1/16/LAPD-Police-Commission-Distinguished-Service-Medal.svg/revision/latest/scale-to-width-down/120?cb=20231019164908",
 		"max-width": "120px",
 		"max-height": "40px"
@@ -98,7 +106,7 @@
 	{
 		"id": "commission_integrity",
 		"name": "Police Commission Integrity Medal",
-		"description": "Awarded for an act of exemplary integrity requiring exceptional character, fortitude, and moral courage. No longer issued.",
+		"description": "Otorgada por un acto de integridad ejemplar que requiere carácter excepcional, fortaleza y coraje moral. Ya no se otorga.",
 		"image": "https://static.wikia.nocookie.net/thecloser/images/f/f1/LAPD-Police-Commission-Integrity-Medal.svg/revision/latest/scale-to-width-down/120?cb=20231019164920",
 		"max-width": "120px",
 		"max-height": "40px"
@@ -106,7 +114,7 @@
 	{
 		"id": "community_policing",
 		"name": "Community Policing Medal",
-		"description": "Awarded to personnel who have solved a significant community problem, included the community in the problem solving process, and/or shown a commitment to Community Policing.",
+		"description": "Otorgada al personal que ha resuelto un problema comunitario significativo, involucrado a la comunidad en el proceso de solución y/o demostrado compromiso con el Community Policing.",
 		"image": "https://static.wikia.nocookie.net/thecloser/images/2/24/LAPD-Community-Policing-Medal.svg/revision/latest/scale-to-width-down/120?cb=20231015131857",
 		"max-width": "120px",
 		"max-height": "40px"
@@ -114,7 +122,7 @@
 	{
 		"id": "human_relations",
 		"name": "Human Relations Medal",
-		"description": "Awarded to officers who have shown great compassion and gone above and beyond the call of duty in their response to fellow human beings.",
+		"description": "Otorgada a oficiales que han demostrado gran compasión y han ido más allá del cumplimiento del deber en su trato con sus semejantes.",
 		"image": "https://static.wikia.nocookie.net/thecloser/images/a/a3/LAPD-Human-Relations-Medal.svg/revision/latest/scale-to-width-down/120?cb=20231017200423",
 		"max-width": "120px",
 		"max-height": "40px"
@@ -122,7 +130,7 @@
 	{
 		"id": "commendation",
 		"name": "Commendation Ribbon",
-		"description": "Authorized after a sworn employee has received 40 commendations. Citizen letters, minor and major commendations count.",
+		"description": "Autorizada cuando un empleado juramentado ha recibido 40 reconocimientos. Se contabilizan cartas ciudadanas, reconocimientos menores y mayores.",
 		"image": "https://static.wikia.nocookie.net/thecloser/images/d/db/LAPD-Commendation-Ribbon.svg/revision/latest/scale-to-width-down/120?cb=20231019165934",
 		"max-width": "120px",
 		"max-height": "40px"
@@ -130,7 +138,7 @@
 	{
 		"id": "commendation_bronze",
 		"name": "Commendation Ribbon (Bronze Star)",
-		"description": "Authorized after 80 commendations.",
+		"description": "Autorizada tras recibir 80 reconocimientos.",
 		"image": "https://static.wikia.nocookie.net/thecloser/images/7/7f/LAPD-Commendation-Ribbon-1.svg/revision/latest/scale-to-width-down/120?cb=20231019165945",
 		"max-width": "120px",
 		"max-height": "40px"
@@ -138,7 +146,7 @@
 	{
 		"id": "commendation_silver",
 		"name": "Commendation Ribbon (Silver Star)",
-		"description": "Authorized after 120 commendations.",
+		"description": "Autorizada tras recibir 120 reconocimientos.",
 		"image": "https://static.wikia.nocookie.net/thecloser/images/f/f8/LAPD-Commendation-Ribbon-2.svg/revision/latest/scale-to-width-down/120?cb=20231019165953",
 		"max-width": "120px",
 		"max-height": "40px"
@@ -146,7 +154,7 @@
 	{
 		"id": "commendation_gold",
 		"name": "Commendation Ribbon (Gold Star)",
-		"description": "Authorized after 160 commendations.",
+		"description": "Autorizada tras recibir 160 reconocimientos.",
 		"image": "https://static.wikia.nocookie.net/thecloser/images/a/a8/LAPD-Commendation-Ribbon-3.svg/revision/latest/scale-to-width-down/120?cb=20231019170002",
 		"max-width": "120px",
 		"max-height": "40px"
@@ -154,7 +162,7 @@
 	{
 		"id": "reserve_exceptional_division",
 		"name": "Reserve Exceptional Service Ribbon (Division)",
-		"description": "Awarded to Reserve Officers named Reserve Officer of the Year of their Area/Division.",
+		"description": "Otorgada a Reserve Officers designados como Reserve Officer of the Year de su \u00c1rea/División.",
 		"image": "https://static.wikia.nocookie.net/thecloser/images/0/06/LAPD-Reserve-Exceptional-Service-Ribbon-Division.svg/revision/latest/scale-to-width-down/120?cb=20231015211546",
 		"max-width": "120px",
 		"max-height": "40px"
@@ -162,7 +170,7 @@
 	{
 		"id": "reserve_exceptional_bureau",
 		"name": "Reserve Exceptional Service Ribbon (Bureau)",
-		"description": "Awarded to Reserve Officers named Reserve Officer of the Year of their Bureau.",
+		"description": "Otorgada a Reserve Officers designados como Reserve Officer of the Year de su Bureau.",
 		"image": "https://static.wikia.nocookie.net/thecloser/images/5/51/LAPD-Reserve-Exceptional-Service-Ribbon-Bureau.svg/revision/latest/scale-to-width-down/120?cb=20231019164522",
 		"max-width": "120px",
 		"max-height": "40px"
@@ -170,7 +178,7 @@
 	{
 		"id": "reserve_exceptional_department",
 		"name": "Reserve Exceptional Service Ribbon (Department)",
-		"description": "Awarded to Reserve Officers named Reserve Officer of the Year of the entire LAPD.",
+		"description": "Otorgada a Reserve Officers designados como Reserve Officer of the Year de todo el LAPD.",
 		"image": "https://static.wikia.nocookie.net/thecloser/images/6/67/LAPD-Reserve-Exceptional-Service-Ribbon-Department.svg/revision/latest/scale-to-width-down/120?cb=20231019164534",
 		"max-width": "120px",
 		"max-height": "40px"
@@ -178,7 +186,7 @@
 	{
 		"id": "patrol_service",
 		"name": "Patrol Service Ribbon",
-		"description": "5 years of service in patrol as a Police Officer, Sergeant and/or Lieutenant.",
+		"description": "5 años de servicio en patrulla como Police Officer, Sergeant y/o Lieutenant.",
 		"image": "https://static.wikia.nocookie.net/thecloser/images/e/ea/LAPD-Patrol-Service-Ribbon.svg/revision/latest/scale-to-width-down/120?cb=20231015133709",
 		"max-width": "120px",
 		"max-height": "40px"
@@ -186,7 +194,7 @@
 	{
 		"id": "patrol_service_bronze",
 		"name": "Patrol Service Ribbon (Bronze Oak Leaf)",
-		"description": "10 years of service in patrol.",
+		"description": "10 años de servicio en patrulla.",
 		"image": "https://static.wikia.nocookie.net/thecloser/images/e/e5/LAPD-Patrol-Service-Ribbon-1.svg/revision/latest/scale-to-width-down/120?cb=20231017182130",
 		"max-width": "120px",
 		"max-height": "40px"
@@ -194,7 +202,7 @@
 	{
 		"id": "patrol_service_silver",
 		"name": "Patrol Service Ribbon (Silver Star)",
-		"description": "15 years of service in patrol.",
+		"description": "15 años de servicio en patrulla.",
 		"image": "https://static.wikia.nocookie.net/thecloser/images/5/52/LAPD-Patrol-Service-Ribbon-2.svg/revision/latest/scale-to-width-down/120?cb=20231019164501",
 		"max-width": "120px",
 		"max-height": "40px"
@@ -202,7 +210,7 @@
 	{
 		"id": "patrol_service_gold",
 		"name": "Patrol Service Ribbon (Gold Star)",
-		"description": "20 years of service in patrol.",
+		"description": "20 años de servicio en patrulla.",
 		"image": "https://static.wikia.nocookie.net/thecloser/images/d/d0/LAPD-Patrol-Service-Ribbon-3.svg/revision/latest/scale-to-width-down/120?cb=20231017182149",
 		"max-width": "120px",
 		"max-height": "40px"
@@ -210,7 +218,7 @@
 	{
 		"id": "detective_service",
 		"name": "Detective Service Ribbon",
-		"description": "5 years of service in investigative units as a Detective and/or Lieutenant.",
+		"description": "5 años de servicio en unidades de investigación como Detective y/o Lieutenant.",
 		"image": "https://static.wikia.nocookie.net/thecloser/images/9/91/LAPD-Detective-Service-Ribbon.svg/revision/latest/scale-to-width-down/120?cb=20231015134845",
 		"max-width": "120px",
 		"max-height": "40px"
@@ -218,7 +226,7 @@
 	{
 		"id": "detective_service_bronze",
 		"name": "Detective Service Ribbon (Bronze Oak Leaf)",
-		"description": "10 years of service in investigative units.",
+		"description": "10 años de servicio en unidades de investigación.",
 		"image": "https://static.wikia.nocookie.net/thecloser/images/8/88/LAPD-Detective-Service-Ribbon-1.svg/revision/latest/scale-to-width-down/120?cb=20231017182200",
 		"max-width": "120px",
 		"max-height": "40px"
@@ -226,7 +234,7 @@
 	{
 		"id": "detective_service_silver",
 		"name": "Detective Service Ribbon (Silver Star)",
-		"description": "15 years of service in investigative units.",
+		"description": "15 años de servicio en unidades de investigación.",
 		"image": "https://static.wikia.nocookie.net/thecloser/images/0/0e/LAPD-Detective-Service-Ribbon-2.svg/revision/latest/scale-to-width-down/120?cb=20231019164512",
 		"max-width": "120px",
 		"max-height": "40px"
@@ -234,7 +242,7 @@
 	{
 		"id": "detective_service_gold",
 		"name": "Detective Service Ribbon (Gold Star)",
-		"description": "20 years of service in investigative units.",
+		"description": "20 años de servicio en unidades de investigación.",
 		"image": "https://static.wikia.nocookie.net/thecloser/images/3/38/LAPD-Detective-Service-Ribbon-3.svg/revision/latest/scale-to-width-down/120?cb=20231017182211",
 		"max-width": "120px",
 		"max-height": "40px"
@@ -242,7 +250,7 @@
 	{
 		"id": "reserve_service",
 		"name": "Reserve Service Ribbon",
-		"description": "Awarded for 4000 hours of service as a Reserve Police officer.",
+		"description": "Otorgada por 4000 horas de servicio como Reserve Police Officer.",
 		"image": "https://static.wikia.nocookie.net/thecloser/images/f/ff/LAPD-Reserve-Service-Ribbon.svg/revision/latest/scale-to-width-down/120?cb=20231015135333",
 		"max-width": "120px",
 		"max-height": "40px"
@@ -250,7 +258,7 @@
 	{
 		"id": "1984_olympic",
 		"name": "1984 Summer Olympics Ribbon",
-		"description": "Given to any LAPD officer who saw service during the 1984 Summer Olympics from July 28 to August 12, 1984.",
+		"description": "Otorgada a cualquier oficial del LAPD que prestó servicio durante los Juegos Olímpicos de Verano de 1984, del 28 de julio al 12 de agosto de 1984.",
 		"image": "https://static.wikia.nocookie.net/thecloser/images/1/18/LAPD-1984-Summer-Olympics-Ribbon.svg/revision/latest/scale-to-width-down/120?cb=20231017182223",
 		"max-width": "120px",
 		"max-height": "40px"
@@ -258,7 +266,7 @@
 	{
 		"id": "1987_papal_visit",
 		"name": "1987 Papal Visit Ribbon",
-		"description": "Given to any LAPD officer who saw service during the September 1987 pastoral visit of Pope John Paul II.",
+		"description": "Otorgada a cualquier oficial del LAPD que prestó servicio durante la visita pastoral del Papa Juan Pablo II en septiembre de 1987.",
 		"image": "https://static.wikia.nocookie.net/thecloser/images/5/52/LAPD-1987-Papal-Visit-Ribbon.svg/revision/latest/scale-to-width-down/120?cb=20231017182239",
 		"max-width": "120px",
 		"max-height": "40px"
@@ -266,7 +274,7 @@
 	{
 		"id": "1992_civil_unrest",
 		"name": "1992 Civil Emergency Response Ribbon",
-		"description": "Given to any LAPD officer who saw service during the 1992 Los Angeles riots from April 29 to May 4, 1992.",
+		"description": "Otorgada a cualquier oficial del LAPD que prestó servicio durante los disturbios de Los \u00c1ngeles de 1992, del 29 de abril al 4 de mayo de 1992.",
 		"image": "https://static.wikia.nocookie.net/thecloser/images/0/09/LAPD-1992-Civil-Emergency-Response-Ribbon.svg/revision/latest/scale-to-width-down/120?cb=20231017184537",
 		"max-width": "120px",
 		"max-height": "40px"
@@ -274,7 +282,7 @@
 	{
 		"id": "1994_earthquake",
 		"name": "1994 Earthquake Ribbon",
-		"description": "Given to any LAPD officer who saw service during the 1994 Northridge earthquake from January 17 to January 18, 1994.",
+		"description": "Otorgada a cualquier oficial del LAPD que prestó servicio durante el terremoto de Northridge de 1994, del 17 al 18 de enero de 1994.",
 		"image": "https://static.wikia.nocookie.net/thecloser/images/9/9e/LAPD-1994-Earthquake-Ribbon.svg/revision/latest/scale-to-width-down/120?cb=20240806160800",
 		"max-width": "120px",
 		"max-height": "40px"
@@ -282,7 +290,7 @@
 	{
 		"id": "2000_dnc",
 		"name": "2000 Democratic National Convention Ribbon",
-		"description": "Given to any LAPD officer who saw service during the 2000 Democratic National Convention.",
+		"description": "Otorgada a cualquier oficial del LAPD que prestó servicio durante la Democratic National Convention del año 2000.",
 		"image": "https://static.wikia.nocookie.net/thecloser/images/4/48/LAPD-2000-Democratic-National-Convention-Ribbon.svg/revision/latest/scale-to-width-down/120?cb=20231017182336",
 		"max-width": "120px",
 		"max-height": "40px"
@@ -290,7 +298,7 @@
 	{
 		"id": "150th_anniversary",
 		"name": "2019 150th Anniversary Ribbon",
-		"description": "Authorized for uniformed employees who were members of the LAPD from January 1, 2019 through December 31, 2019.",
+		"description": "Autorizada para empleados uniformados que fueron miembros del LAPD desde el 1 de enero hasta el 31 de diciembre de 2019.",
 		"image": "https://static.wikia.nocookie.net/thecloser/images/e/e5/LAPD-2019-150th-Anniversary-Ribbon.svg/revision/latest/scale-to-width-down/120?cb=20231018144254",
 		"max-width": "120px",
 		"max-height": "40px"
@@ -298,7 +306,7 @@
 	{
 		"id": "urban_police_rifle",
 		"name": "Urban Police Rifle Cadre Ribbon",
-		"description": "Given to any LAPD officer who is qualified to use an Urban Police Rifle (AR-15 variant chambered in .223).",
+		"description": "Otorgada a cualquier oficial del LAPD cualificado para el uso del Urban Police Rifle (variante AR-15 en calibre .223).",
 		"image": "https://static.wikia.nocookie.net/thecloser/images/0/05/LAPD-Urban-Police-Rifle-Ribbon.svg/revision/latest/scale-to-width-down/120?cb=20231018150434",
 		"max-width": "120px",
 		"max-height": "40px"
@@ -306,7 +314,7 @@
 	{
 		"id": "shotgun_slug",
 		"name": "Shotgun Slug Ammunition Cadre Ribbon",
-		"description": "Given to any LAPD officer who is qualified to use slug ammunition in LAPD issued shotguns.",
+		"description": "Otorgada a cualquier oficial del LAPD cualificado para el uso de munición slug en las escopetas reglamentarias del LAPD.",
 		"image": "https://static.wikia.nocookie.net/thecloser/images/3/34/LAPD-Shotgun-Slug-Ammunition-Ribbon.svg/revision/latest/scale-to-width-down/120?cb=20231018150449",
 		"max-width": "120px",
 		"max-height": "40px"
