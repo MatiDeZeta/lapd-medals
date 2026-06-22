@@ -1,322 +1,869 @@
-[
-	{
-		"id": "medal_of_valor",
-		"name": "Medal of Valor",
-		"description": "La más alta condecoración policial. Otorgada por actos individuales de extraordinaria valentía o heroísmo realizados en el cumplimiento del deber con riesgo extremo para la vida.",
-		"image": "https://static.wikia.nocookie.net/thecloser/images/0/07/LAPD-Medal-of-Valor.svg/revision/latest/scale-to-width-down/120?cb=20231015125128",
-		"max-width": "120px",
-		"max-height": "40px"
-	},
-	{
-		"id": "preservation_of_life",
-		"name": "Preservation of Life Medal",
-		"description": "Otorgada al oficial que se haya distinguido por emplear tácticas excepcionales y ejercer un juicio acertado, más allá de las exigencias normales del servicio, para preservar la vida de otra persona.",
-		"image": "https://static.wikia.nocookie.net/thecloser/images/c/cd/LAPD-Preservation-of-Life-Medal.svg/revision/latest/scale-to-width-down/120?cb=20231015125619",
-		"max-width": "120px",
-		"max-height": "40px"
-	},
-	{
-		"id": "distinguished_service",
-		"name": "Police Distinguished Service Medal",
-		"description": "La más alta condecoración del departamento por servicio. Otorgada a empleados que se distinguen por desempeñar un servicio excepcional en funciones de gran responsabilidad o de importancia crítica para la aplicación de la ley.",
-		"image": "https://static.wikia.nocookie.net/thecloser/images/1/12/LAPD-Police-Distinguished-Service-Medal.svg/revision/latest/scale-to-width-down/120?cb=20231015130547",
-		"max-width": "120px",
-		"max-height": "40px"
-	},
-	{
-		"id": "commission_unit_citation",
-		"name": "Police Commission Unit Citation",
-		"description": "La más alta condecoración de unidad del departamento. Otorgada a una unidad organizativa por la valentía o el servicio sobresaliente de sus miembros actuando como equipo.",
-		"image": "https://static.wikia.nocookie.net/thecloser/images/4/46/LAPD-Police-Commission-Unit-Citation.svg/revision/latest/scale-to-width-down/120?cb=20231015132349",
-		"max-width": "120px",
-		"max-height": "40px"
-	},
-	{
-		"id": "police_medal",
-		"name": "Police Medal",
-		"description": "Otorgada por actos individuales de heroísmo en el cumplimiento del deber, aunque sin alcanzar el nivel de sacrificio exigido para la Medal of Valor.",
-		"image": "https://static.wikia.nocookie.net/thecloser/images/3/3d/LAPD-Police-Medal.svg/revision/latest/scale-to-width-down/120?cb=20231015125855",
-		"max-width": "120px",
-		"max-height": "40px"
-	},
-	{
-		"id": "purple_heart",
-		"name": "Purple Heart",
-		"description": "Otorgada a oficiales que sufren una lesión física traumática como resultado de las acciones de un sospechoso durante una situación táctica en servicio. Tambi\u00e9n puede otorgarse de manera póstuma.",
-		"image": "https://static.wikia.nocookie.net/thecloser/images/1/12/LAPD-Purple-Heart-Ribbon.svg/revision/latest/scale-to-width-down/120?cb=20231015141559",
-		"max-width": "120px",
-		"max-height": "40px"
-	},
-	{
-		"id": "liberty_award",
-		"name": "Liberty Award",
-		"description": "Otorgada a los K-9 del LAPD que resultan muertos o gravemente heridos en el cumplimiento del deber. Nombrada en honor a K-9 Liberty, quien fue abatido durante un incidente en servicio.",
-		"image": "https://static.wikia.nocookie.net/thecloser/images/.../LAPD-Liberty-Award.svg",
-		"max-width": "120px",
-		"max-height": "40px"
-	},
-	{
-		"id": "meritorious_service",
-		"name": "Police Meritorious Service Medal",
-		"description": "Otorgada por desempeñar un servicio excepcional en funciones de gran responsabilidad, aunque en menor grado que el requerido para la Distinguished Service Medal.",
-		"image": "https://static.wikia.nocookie.net/thecloser/images/a/a4/LAPD-Police-Meritorious-Service-Medal.svg/revision/latest/scale-to-width-down/120?cb=20231017184142",
-		"max-width": "120px",
-		"max-height": "40px"
-	},
-	{
-		"id": "meritorious_achievement",
-		"name": "Police Meritorious Achievement Medal",
-		"description": "Otorgada por logros destacados sostenidos a largo plazo o por un logro individual significativo en el ejercicio de las funciones.",
-		"image": "https://static.wikia.nocookie.net/thecloser/images/d/d2/LAPD-Police-Meritorious-Achievement-Medal.svg/revision/latest/scale-to-width-down/120?cb=20231015131506",
-		"max-width": "120px",
-		"max-height": "40px"
-	},
-	{
-		"id": "meritorious_unit_citation",
-		"name": "Police Meritorious Unit Citation",
-		"description": "Otorgada a una unidad organizativa por la valentía o el servicio sobresaliente de sus miembros actuando como equipo, en menor grado que la Commission Unit Citation.",
-		"image": "https://static.wikia.nocookie.net/thecloser/images/f/ff/LAPD-Police-Meritorious-Unit-Citation.svg/revision/latest/scale-to-width-down/120?cb=20231017192419",
-		"max-width": "120px",
-		"max-height": "40px"
-	},
-	{
-		"id": "police_star",
-		"name": "Police Star",
-		"description": "Otorgada por actuar con juicio excepcional y/o emplear tácticas hábiles para desactivar situaciones peligrosas y de alta tensión.",
-		"image": "https://static.wikia.nocookie.net/thecloser/images/6/6d/LAPD-Police-Star.svg/revision/latest/scale-to-width-down/120?cb=20231017182651",
-		"max-width": "120px",
-		"max-height": "40px"
-	},
-	{
-		"id": "lifesaving",
-		"name": "Lifesaving Medal",
-		"description": "Otorgada por tomar acción para rescatar o intentar rescatar a un compañero oficial o a cualquier persona en peligro inminente.",
-		"image": "https://static.wikia.nocookie.net/thecloser/images/3/32/LAPD-Lifesaving-Medal.svg/revision/latest/scale-to-width-down/120?cb=20231015130416",
-		"max-width": "120px",
-		"max-height": "40px"
-	},
-	{
-		"id": "commission_distinguished_service",
-		"name": "Police Commission Distinguished Service Medal",
-		"description": "Otorgada por prestar un servicio excepcional al LAPD o por actuar en una situación de emergencia con buen juicio y valentía.",
-		"image": "https://static.wikia.nocookie.net/thecloser/images/1/16/LAPD-Police-Commission-Distinguished-Service-Medal.svg/revision/latest/scale-to-width-down/120?cb=20231019164908",
-		"max-width": "120px",
-		"max-height": "40px"
-	},
-	{
-		"id": "commission_integrity",
-		"name": "Police Commission Integrity Medal",
-		"description": "Otorgada por un acto de integridad ejemplar que requiere carácter excepcional, fortaleza y coraje moral. Ya no se otorga.",
-		"image": "https://static.wikia.nocookie.net/thecloser/images/f/f1/LAPD-Police-Commission-Integrity-Medal.svg/revision/latest/scale-to-width-down/120?cb=20231019164920",
-		"max-width": "120px",
-		"max-height": "40px"
-	},
-	{
-		"id": "community_policing",
-		"name": "Community Policing Medal",
-		"description": "Otorgada al personal que ha resuelto un problema comunitario significativo, involucrado a la comunidad en el proceso de solución y/o demostrado compromiso con el Community Policing.",
-		"image": "https://static.wikia.nocookie.net/thecloser/images/2/24/LAPD-Community-Policing-Medal.svg/revision/latest/scale-to-width-down/120?cb=20231015131857",
-		"max-width": "120px",
-		"max-height": "40px"
-	},
-	{
-		"id": "human_relations",
-		"name": "Human Relations Medal",
-		"description": "Otorgada a oficiales que han demostrado gran compasión y han ido más allá del cumplimiento del deber en su trato con sus semejantes.",
-		"image": "https://static.wikia.nocookie.net/thecloser/images/a/a3/LAPD-Human-Relations-Medal.svg/revision/latest/scale-to-width-down/120?cb=20231017200423",
-		"max-width": "120px",
-		"max-height": "40px"
-	},
-	{
-		"id": "commendation",
-		"name": "Commendation Ribbon",
-		"description": "Autorizada cuando un empleado juramentado ha recibido 40 reconocimientos. Se contabilizan cartas ciudadanas, reconocimientos menores y mayores.",
-		"image": "https://static.wikia.nocookie.net/thecloser/images/d/db/LAPD-Commendation-Ribbon.svg/revision/latest/scale-to-width-down/120?cb=20231019165934",
-		"max-width": "120px",
-		"max-height": "40px"
-	},
-	{
-		"id": "commendation_bronze",
-		"name": "Commendation Ribbon (Bronze Star)",
-		"description": "Autorizada tras recibir 80 reconocimientos.",
-		"image": "https://static.wikia.nocookie.net/thecloser/images/7/7f/LAPD-Commendation-Ribbon-1.svg/revision/latest/scale-to-width-down/120?cb=20231019165945",
-		"max-width": "120px",
-		"max-height": "40px"
-	},
-	{
-		"id": "commendation_silver",
-		"name": "Commendation Ribbon (Silver Star)",
-		"description": "Autorizada tras recibir 120 reconocimientos.",
-		"image": "https://static.wikia.nocookie.net/thecloser/images/f/f8/LAPD-Commendation-Ribbon-2.svg/revision/latest/scale-to-width-down/120?cb=20231019165953",
-		"max-width": "120px",
-		"max-height": "40px"
-	},
-	{
-		"id": "commendation_gold",
-		"name": "Commendation Ribbon (Gold Star)",
-		"description": "Autorizada tras recibir 160 reconocimientos.",
-		"image": "https://static.wikia.nocookie.net/thecloser/images/a/a8/LAPD-Commendation-Ribbon-3.svg/revision/latest/scale-to-width-down/120?cb=20231019170002",
-		"max-width": "120px",
-		"max-height": "40px"
-	},
-	{
-		"id": "reserve_exceptional_division",
-		"name": "Reserve Exceptional Service Ribbon (Division)",
-		"description": "Otorgada a Reserve Officers designados como Reserve Officer of the Year de su \u00c1rea/División.",
-		"image": "https://static.wikia.nocookie.net/thecloser/images/0/06/LAPD-Reserve-Exceptional-Service-Ribbon-Division.svg/revision/latest/scale-to-width-down/120?cb=20231015211546",
-		"max-width": "120px",
-		"max-height": "40px"
-	},
-	{
-		"id": "reserve_exceptional_bureau",
-		"name": "Reserve Exceptional Service Ribbon (Bureau)",
-		"description": "Otorgada a Reserve Officers designados como Reserve Officer of the Year de su Bureau.",
-		"image": "https://static.wikia.nocookie.net/thecloser/images/5/51/LAPD-Reserve-Exceptional-Service-Ribbon-Bureau.svg/revision/latest/scale-to-width-down/120?cb=20231019164522",
-		"max-width": "120px",
-		"max-height": "40px"
-	},
-	{
-		"id": "reserve_exceptional_department",
-		"name": "Reserve Exceptional Service Ribbon (Department)",
-		"description": "Otorgada a Reserve Officers designados como Reserve Officer of the Year de todo el LAPD.",
-		"image": "https://static.wikia.nocookie.net/thecloser/images/6/67/LAPD-Reserve-Exceptional-Service-Ribbon-Department.svg/revision/latest/scale-to-width-down/120?cb=20231019164534",
-		"max-width": "120px",
-		"max-height": "40px"
-	},
-	{
-		"id": "patrol_service",
-		"name": "Patrol Service Ribbon",
-		"description": "5 años de servicio en patrulla como Police Officer, Sergeant y/o Lieutenant.",
-		"image": "https://static.wikia.nocookie.net/thecloser/images/e/ea/LAPD-Patrol-Service-Ribbon.svg/revision/latest/scale-to-width-down/120?cb=20231015133709",
-		"max-width": "120px",
-		"max-height": "40px"
-	},
-	{
-		"id": "patrol_service_bronze",
-		"name": "Patrol Service Ribbon (Bronze Oak Leaf)",
-		"description": "10 años de servicio en patrulla.",
-		"image": "https://static.wikia.nocookie.net/thecloser/images/e/e5/LAPD-Patrol-Service-Ribbon-1.svg/revision/latest/scale-to-width-down/120?cb=20231017182130",
-		"max-width": "120px",
-		"max-height": "40px"
-	},
-	{
-		"id": "patrol_service_silver",
-		"name": "Patrol Service Ribbon (Silver Star)",
-		"description": "15 años de servicio en patrulla.",
-		"image": "https://static.wikia.nocookie.net/thecloser/images/5/52/LAPD-Patrol-Service-Ribbon-2.svg/revision/latest/scale-to-width-down/120?cb=20231019164501",
-		"max-width": "120px",
-		"max-height": "40px"
-	},
-	{
-		"id": "patrol_service_gold",
-		"name": "Patrol Service Ribbon (Gold Star)",
-		"description": "20 años de servicio en patrulla.",
-		"image": "https://static.wikia.nocookie.net/thecloser/images/d/d0/LAPD-Patrol-Service-Ribbon-3.svg/revision/latest/scale-to-width-down/120?cb=20231017182149",
-		"max-width": "120px",
-		"max-height": "40px"
-	},
-	{
-		"id": "detective_service",
-		"name": "Detective Service Ribbon",
-		"description": "5 años de servicio en unidades de investigación como Detective y/o Lieutenant.",
-		"image": "https://static.wikia.nocookie.net/thecloser/images/9/91/LAPD-Detective-Service-Ribbon.svg/revision/latest/scale-to-width-down/120?cb=20231015134845",
-		"max-width": "120px",
-		"max-height": "40px"
-	},
-	{
-		"id": "detective_service_bronze",
-		"name": "Detective Service Ribbon (Bronze Oak Leaf)",
-		"description": "10 años de servicio en unidades de investigación.",
-		"image": "https://static.wikia.nocookie.net/thecloser/images/8/88/LAPD-Detective-Service-Ribbon-1.svg/revision/latest/scale-to-width-down/120?cb=20231017182200",
-		"max-width": "120px",
-		"max-height": "40px"
-	},
-	{
-		"id": "detective_service_silver",
-		"name": "Detective Service Ribbon (Silver Star)",
-		"description": "15 años de servicio en unidades de investigación.",
-		"image": "https://static.wikia.nocookie.net/thecloser/images/0/0e/LAPD-Detective-Service-Ribbon-2.svg/revision/latest/scale-to-width-down/120?cb=20231019164512",
-		"max-width": "120px",
-		"max-height": "40px"
-	},
-	{
-		"id": "detective_service_gold",
-		"name": "Detective Service Ribbon (Gold Star)",
-		"description": "20 años de servicio en unidades de investigación.",
-		"image": "https://static.wikia.nocookie.net/thecloser/images/3/38/LAPD-Detective-Service-Ribbon-3.svg/revision/latest/scale-to-width-down/120?cb=20231017182211",
-		"max-width": "120px",
-		"max-height": "40px"
-	},
-	{
-		"id": "reserve_service",
-		"name": "Reserve Service Ribbon",
-		"description": "Otorgada por 4000 horas de servicio como Reserve Police Officer.",
-		"image": "https://static.wikia.nocookie.net/thecloser/images/f/ff/LAPD-Reserve-Service-Ribbon.svg/revision/latest/scale-to-width-down/120?cb=20231015135333",
-		"max-width": "120px",
-		"max-height": "40px"
-	},
-	{
-		"id": "1984_olympic",
-		"name": "1984 Summer Olympics Ribbon",
-		"description": "Otorgada a cualquier oficial del LAPD que prestó servicio durante los Juegos Olímpicos de Verano de 1984, del 28 de julio al 12 de agosto de 1984.",
-		"image": "https://static.wikia.nocookie.net/thecloser/images/1/18/LAPD-1984-Summer-Olympics-Ribbon.svg/revision/latest/scale-to-width-down/120?cb=20231017182223",
-		"max-width": "120px",
-		"max-height": "40px"
-	},
-	{
-		"id": "1987_papal_visit",
-		"name": "1987 Papal Visit Ribbon",
-		"description": "Otorgada a cualquier oficial del LAPD que prestó servicio durante la visita pastoral del Papa Juan Pablo II en septiembre de 1987.",
-		"image": "https://static.wikia.nocookie.net/thecloser/images/5/52/LAPD-1987-Papal-Visit-Ribbon.svg/revision/latest/scale-to-width-down/120?cb=20231017182239",
-		"max-width": "120px",
-		"max-height": "40px"
-	},
-	{
-		"id": "1992_civil_unrest",
-		"name": "1992 Civil Emergency Response Ribbon",
-		"description": "Otorgada a cualquier oficial del LAPD que prestó servicio durante los disturbios de Los \u00c1ngeles de 1992, del 29 de abril al 4 de mayo de 1992.",
-		"image": "https://static.wikia.nocookie.net/thecloser/images/0/09/LAPD-1992-Civil-Emergency-Response-Ribbon.svg/revision/latest/scale-to-width-down/120?cb=20231017184537",
-		"max-width": "120px",
-		"max-height": "40px"
-	},
-	{
-		"id": "1994_earthquake",
-		"name": "1994 Earthquake Ribbon",
-		"description": "Otorgada a cualquier oficial del LAPD que prestó servicio durante el terremoto de Northridge de 1994, del 17 al 18 de enero de 1994.",
-		"image": "https://static.wikia.nocookie.net/thecloser/images/9/9e/LAPD-1994-Earthquake-Ribbon.svg/revision/latest/scale-to-width-down/120?cb=20240806160800",
-		"max-width": "120px",
-		"max-height": "40px"
-	},
-	{
-		"id": "2000_dnc",
-		"name": "2000 Democratic National Convention Ribbon",
-		"description": "Otorgada a cualquier oficial del LAPD que prestó servicio durante la Democratic National Convention del año 2000.",
-		"image": "https://static.wikia.nocookie.net/thecloser/images/4/48/LAPD-2000-Democratic-National-Convention-Ribbon.svg/revision/latest/scale-to-width-down/120?cb=20231017182336",
-		"max-width": "120px",
-		"max-height": "40px"
-	},
-	{
-		"id": "150th_anniversary",
-		"name": "2019 150th Anniversary Ribbon",
-		"description": "Autorizada para empleados uniformados que fueron miembros del LAPD desde el 1 de enero hasta el 31 de diciembre de 2019.",
-		"image": "https://static.wikia.nocookie.net/thecloser/images/e/e5/LAPD-2019-150th-Anniversary-Ribbon.svg/revision/latest/scale-to-width-down/120?cb=20231018144254",
-		"max-width": "120px",
-		"max-height": "40px"
-	},
-	{
-		"id": "urban_police_rifle",
-		"name": "Urban Police Rifle Cadre Ribbon",
-		"description": "Otorgada a cualquier oficial del LAPD cualificado para el uso del Urban Police Rifle (variante AR-15 en calibre .223).",
-		"image": "https://static.wikia.nocookie.net/thecloser/images/0/05/LAPD-Urban-Police-Rifle-Ribbon.svg/revision/latest/scale-to-width-down/120?cb=20231018150434",
-		"max-width": "120px",
-		"max-height": "40px"
-	},
-	{
-		"id": "shotgun_slug",
-		"name": "Shotgun Slug Ammunition Cadre Ribbon",
-		"description": "Otorgada a cualquier oficial del LAPD cualificado para el uso de munición slug en las escopetas reglamentarias del LAPD.",
-		"image": "https://static.wikia.nocookie.net/thecloser/images/3/34/LAPD-Shotgun-Slug-Ammunition-Ribbon.svg/revision/latest/scale-to-width-down/120?cb=20231018150449",
-		"max-width": "120px",
-		"max-height": "40px"
-	}
-]
+{
+  "department": "Los Angeles Police Department",
+  "source_notes": "Department awards follow LAPD Manual Volume 3, Section 637 (Wearing of Department Decorations). Military medals are U.S. Armed Forces decorations authorized for wear on the LAPD Class A uniform by sworn members who earned them during military service; when worn together, military ribbons take precedence over Department ribbons.",
+  "department_medals": [
+    {
+      "id": "medal_of_valor",
+      "name": "Medal of Valor",
+      "category": "bravery",
+      "order": 1,
+      "description": "La más alta condecoración policial. Otorgada por actos individuales de extraordinaria valentía o heroísmo realizados en el cumplimiento del deber con riesgo extremo para la vida.",
+      "image": "https://static.wikia.nocookie.net/thecloser/images/0/07/LAPD-Medal-of-Valor.svg/revision/latest/scale-to-width-down/120?cb=20231015125128",
+      "max-width": "120px",
+      "max-height": "40px"
+    },
+    {
+      "id": "preservation_of_life",
+      "name": "Preservation of Life Medal",
+      "category": "bravery",
+      "order": 2,
+      "description": "Otorgada al oficial que se haya distinguido por emplear tácticas excepcionales y ejercer un juicio acertado, más allá de las exigencias normales del servicio, para preservar la vida de otra persona.",
+      "image": "https://static.wikia.nocookie.net/thecloser/images/c/cd/LAPD-Preservation-of-Life-Medal.svg/revision/latest/scale-to-width-down/120?cb=20231015125619",
+      "max-width": "120px",
+      "max-height": "40px"
+    },
+    {
+      "id": "distinguished_service",
+      "name": "Police Distinguished Service Medal",
+      "category": "service",
+      "order": 3,
+      "description": "La más alta condecoración del departamento por servicio. Otorgada a empleados que se distinguen por desempeñar un servicio excepcional en funciones de gran responsabilidad o de importancia crítica para la aplicación de la ley.",
+      "image": "https://static.wikia.nocookie.net/thecloser/images/1/12/LAPD-Police-Distinguished-Service-Medal.svg/revision/latest/scale-to-width-down/120?cb=20231015130547",
+      "max-width": "120px",
+      "max-height": "40px"
+    },
+    {
+      "id": "commission_unit_citation",
+      "name": "Police Commission Unit Citation",
+      "category": "unit",
+      "order": 4,
+      "description": "La más alta condecoración de unidad del departamento. Otorgada a una unidad organizativa por la valentía o el servicio sobresaliente de sus miembros actuando como equipo.",
+      "image": "https://static.wikia.nocookie.net/thecloser/images/4/46/LAPD-Police-Commission-Unit-Citation.svg/revision/latest/scale-to-width-down/120?cb=20231015132349",
+      "max-width": "120px",
+      "max-height": "40px"
+    },
+    {
+      "id": "police_medal",
+      "name": "Police Medal",
+      "category": "bravery",
+      "order": 5,
+      "description": "Otorgada por actos individuales de heroísmo en el cumplimiento del deber, aunque sin alcanzar el nivel de sacrificio exigido para la Medal of Valor.",
+      "image": "https://static.wikia.nocookie.net/thecloser/images/3/3d/LAPD-Police-Medal.svg/revision/latest/scale-to-width-down/120?cb=20231015125855",
+      "max-width": "120px",
+      "max-height": "40px"
+    },
+    {
+      "id": "purple_heart",
+      "name": "Purple Heart",
+      "category": "bravery",
+      "order": 6,
+      "description": "Otorgada a oficiales que sufren una lesión física traumática como resultado de las acciones de un sospechoso durante una situación táctica en servicio. También puede otorgarse de manera póstuma.",
+      "image": "https://static.wikia.nocookie.net/thecloser/images/1/12/LAPD-Purple-Heart-Ribbon.svg/revision/latest/scale-to-width-down/120?cb=20231015141559",
+      "max-width": "120px",
+      "max-height": "40px"
+    },
+    {
+      "id": "meritorious_service",
+      "name": "Police Meritorious Service Medal",
+      "category": "service",
+      "order": 7,
+      "description": "Otorgada por desempeñar un servicio excepcional en funciones de gran responsabilidad, aunque en menor grado que el requerido para la Distinguished Service Medal.",
+      "image": "https://static.wikia.nocookie.net/thecloser/images/a/a4/LAPD-Police-Meritorious-Service-Medal.svg/revision/latest/scale-to-width-down/120?cb=20231017184142",
+      "max-width": "120px",
+      "max-height": "40px"
+    },
+    {
+      "id": "meritorious_achievement",
+      "name": "Police Meritorious Achievement Medal",
+      "category": "service",
+      "order": 8,
+      "description": "Otorgada por logros destacados sostenidos a largo plazo o por un logro individual significativo en el ejercicio de las funciones.",
+      "image": "https://static.wikia.nocookie.net/thecloser/images/d/d2/LAPD-Police-Meritorious-Achievement-Medal.svg/revision/latest/scale-to-width-down/120?cb=20231015131506",
+      "max-width": "120px",
+      "max-height": "40px"
+    },
+    {
+      "id": "meritorious_unit_citation",
+      "name": "Police Meritorious Unit Citation",
+      "category": "unit",
+      "order": 9,
+      "description": "Otorgada a una unidad organizativa por la valentía o el servicio sobresaliente de sus miembros actuando como equipo, en menor grado que la Commission Unit Citation.",
+      "image": "https://static.wikia.nocookie.net/thecloser/images/f/ff/LAPD-Police-Meritorious-Unit-Citation.svg/revision/latest/scale-to-width-down/120?cb=20231017192419",
+      "max-width": "120px",
+      "max-height": "40px"
+    },
+    {
+      "id": "police_star",
+      "name": "Police Star",
+      "category": "bravery",
+      "order": 10,
+      "description": "Otorgada por actuar con juicio excepcional y/o emplear tácticas hábiles para desactivar situaciones peligrosas y de alta tensión.",
+      "image": "https://static.wikia.nocookie.net/thecloser/images/6/6d/LAPD-Police-Star.svg/revision/latest/scale-to-width-down/120?cb=20231017182651",
+      "max-width": "120px",
+      "max-height": "40px"
+    },
+    {
+      "id": "lifesaving",
+      "name": "Lifesaving Medal",
+      "category": "bravery",
+      "order": 11,
+      "description": "Otorgada por tomar acción para rescatar o intentar rescatar a un compañero oficial o a cualquier persona en peligro inminente.",
+      "image": "https://static.wikia.nocookie.net/thecloser/images/3/32/LAPD-Lifesaving-Medal.svg/revision/latest/scale-to-width-down/120?cb=20231015130416",
+      "max-width": "120px",
+      "max-height": "40px"
+    },
+    {
+      "id": "commission_distinguished_service",
+      "name": "Police Commission Distinguished Service Medal",
+      "category": "service",
+      "order": 12,
+      "description": "Otorgada por prestar un servicio excepcional al LAPD o por actuar en una situación de emergencia con buen juicio y valentía.",
+      "image": "https://static.wikia.nocookie.net/thecloser/images/1/16/LAPD-Police-Commission-Distinguished-Service-Medal.svg/revision/latest/scale-to-width-down/120?cb=20231019164908",
+      "max-width": "120px",
+      "max-height": "40px"
+    },
+    {
+      "id": "commission_integrity",
+      "name": "Police Commission Integrity Medal",
+      "category": "service",
+      "order": 13,
+      "description": "Otorgada por un acto de integridad ejemplar que requiere carácter excepcional, fortaleza y coraje moral. Desarrollada tras el escándalo Rampart y ya no se otorga.",
+      "image": "https://static.wikia.nocookie.net/thecloser/images/f/f1/LAPD-Police-Commission-Integrity-Medal.svg/revision/latest/scale-to-width-down/120?cb=20231019164920",
+      "max-width": "120px",
+      "max-height": "40px"
+    },
+    {
+      "id": "community_policing",
+      "name": "Community Policing Medal",
+      "category": "service",
+      "order": 14,
+      "description": "Otorgada al personal que ha resuelto un problema comunitario significativo, involucrado a la comunidad en el proceso de solución y/o demostrado compromiso con el Community Policing.",
+      "image": "https://static.wikia.nocookie.net/thecloser/images/2/24/LAPD-Community-Policing-Medal.svg/revision/latest/scale-to-width-down/120?cb=20231015131857",
+      "max-width": "120px",
+      "max-height": "40px"
+    },
+    {
+      "id": "human_relations",
+      "name": "Human Relations Medal",
+      "category": "service",
+      "order": 15,
+      "description": "Otorgada a oficiales que han demostrado gran compasión y han ido más allá del cumplimiento del deber en su trato con sus semejantes.",
+      "image": "https://static.wikia.nocookie.net/thecloser/images/a/a3/LAPD-Human-Relations-Medal.svg/revision/latest/scale-to-width-down/120?cb=20231017200423",
+      "max-width": "120px",
+      "max-height": "40px"
+    },
+    {
+      "id": "reserve_exceptional_division",
+      "name": "Reserve Distinguished Service Ribbon (Division)",
+      "category": "reserve",
+      "order": 16,
+      "description": "Otorgada a Reserve Officers designados como Reserve Officer of the Year de su Área/División. Originalmente denominada Reserve Exceptional Service Ribbon, fue renombrada en 2025 como Reserve Distinguished Service Ribbon.",
+      "image": "https://static.wikia.nocookie.net/thecloser/images/0/06/LAPD-Reserve-Exceptional-Service-Ribbon-Division.svg/revision/latest/scale-to-width-down/120?cb=20231015211546",
+      "max-width": "120px",
+      "max-height": "40px"
+    },
+    {
+      "id": "reserve_exceptional_bureau",
+      "name": "Reserve Distinguished Service Ribbon (Bureau)",
+      "category": "reserve",
+      "order": 16,
+      "description": "Otorgada a Reserve Officers designados como Reserve Officer of the Year de su Bureau.",
+      "image": "https://static.wikia.nocookie.net/thecloser/images/5/51/LAPD-Reserve-Exceptional-Service-Ribbon-Bureau.svg/revision/latest/scale-to-width-down/120?cb=20231019164522",
+      "max-width": "120px",
+      "max-height": "40px"
+    },
+    {
+      "id": "reserve_exceptional_department",
+      "name": "Reserve Distinguished Service Ribbon (Department)",
+      "category": "reserve",
+      "order": 16,
+      "description": "Otorgada a Reserve Officers designados como Reserve Officer of the Year de todo el LAPD.",
+      "image": "https://static.wikia.nocookie.net/thecloser/images/6/67/LAPD-Reserve-Exceptional-Service-Ribbon-Department.svg/revision/latest/scale-to-width-down/120?cb=20231019164534",
+      "max-width": "120px",
+      "max-height": "40px"
+    },
+    {
+      "id": "commendation",
+      "name": "Commendation Ribbon",
+      "category": "commendation",
+      "order": 17,
+      "description": "Autorizada cuando un empleado juramentado ha recibido 40 reconocimientos. Se contabilizan cartas ciudadanas, reconocimientos menores y mayores.",
+      "image": "https://static.wikia.nocookie.net/thecloser/images/d/db/LAPD-Commendation-Ribbon.svg/revision/latest/scale-to-width-down/120?cb=20231019165934",
+      "max-width": "120px",
+      "max-height": "40px"
+    },
+    {
+      "id": "commendation_bronze",
+      "name": "Commendation Ribbon (Bronze Star)",
+      "category": "commendation",
+      "order": 17,
+      "description": "Autorizada tras recibir 80 reconocimientos.",
+      "image": "https://static.wikia.nocookie.net/thecloser/images/7/7f/LAPD-Commendation-Ribbon-1.svg/revision/latest/scale-to-width-down/120?cb=20231019165945",
+      "max-width": "120px",
+      "max-height": "40px"
+    },
+    {
+      "id": "commendation_silver",
+      "name": "Commendation Ribbon (Silver Star)",
+      "category": "commendation",
+      "order": 17,
+      "description": "Autorizada tras recibir 120 reconocimientos.",
+      "image": "https://static.wikia.nocookie.net/thecloser/images/f/f8/LAPD-Commendation-Ribbon-2.svg/revision/latest/scale-to-width-down/120?cb=20231019165953",
+      "max-width": "120px",
+      "max-height": "40px"
+    },
+    {
+      "id": "commendation_gold",
+      "name": "Commendation Ribbon (Gold Star)",
+      "category": "commendation",
+      "order": 17,
+      "description": "Autorizada tras recibir 160 reconocimientos.",
+      "image": "https://static.wikia.nocookie.net/thecloser/images/a/a8/LAPD-Commendation-Ribbon-3.svg/revision/latest/scale-to-width-down/120?cb=20231019170002",
+      "max-width": "120px",
+      "max-height": "40px"
+    },
+    {
+      "id": "patrol_service",
+      "name": "Patrol Service Ribbon",
+      "category": "service_ribbon",
+      "order": 18,
+      "description": "5 años de servicio en patrulla como Police Officer, Sergeant y/o Lieutenant.",
+      "image": "https://static.wikia.nocookie.net/thecloser/images/e/ea/LAPD-Patrol-Service-Ribbon.svg/revision/latest/scale-to-width-down/120?cb=20231015133709",
+      "max-width": "120px",
+      "max-height": "40px"
+    },
+    {
+      "id": "patrol_service_bronze",
+      "name": "Patrol Service Ribbon (Bronze Oak Leaf)",
+      "category": "service_ribbon",
+      "order": 18,
+      "description": "10 años de servicio en patrulla.",
+      "image": "https://static.wikia.nocookie.net/thecloser/images/e/e5/LAPD-Patrol-Service-Ribbon-1.svg/revision/latest/scale-to-width-down/120?cb=20231017182130",
+      "max-width": "120px",
+      "max-height": "40px"
+    },
+    {
+      "id": "patrol_service_silver",
+      "name": "Patrol Service Ribbon (Silver Star)",
+      "category": "service_ribbon",
+      "order": 18,
+      "description": "15 años de servicio en patrulla.",
+      "image": "https://static.wikia.nocookie.net/thecloser/images/5/52/LAPD-Patrol-Service-Ribbon-2.svg/revision/latest/scale-to-width-down/120?cb=20231019164501",
+      "max-width": "120px",
+      "max-height": "40px"
+    },
+    {
+      "id": "patrol_service_gold",
+      "name": "Patrol Service Ribbon (Gold Star)",
+      "category": "service_ribbon",
+      "order": 18,
+      "description": "20 años de servicio en patrulla.",
+      "image": "https://static.wikia.nocookie.net/thecloser/images/d/d0/LAPD-Patrol-Service-Ribbon-3.svg/revision/latest/scale-to-width-down/120?cb=20231017182149",
+      "max-width": "120px",
+      "max-height": "40px"
+    },
+    {
+      "id": "detective_service",
+      "name": "Detective Service Ribbon",
+      "category": "service_ribbon",
+      "order": 19,
+      "description": "5 años de servicio en unidades de investigación como Detective y/o Lieutenant.",
+      "image": "https://static.wikia.nocookie.net/thecloser/images/9/91/LAPD-Detective-Service-Ribbon.svg/revision/latest/scale-to-width-down/120?cb=20231015134845",
+      "max-width": "120px",
+      "max-height": "40px"
+    },
+    {
+      "id": "detective_service_bronze",
+      "name": "Detective Service Ribbon (Bronze Oak Leaf)",
+      "category": "service_ribbon",
+      "order": 19,
+      "description": "10 años de servicio en unidades de investigación.",
+      "image": "https://static.wikia.nocookie.net/thecloser/images/8/88/LAPD-Detective-Service-Ribbon-1.svg/revision/latest/scale-to-width-down/120?cb=20231017182200",
+      "max-width": "120px",
+      "max-height": "40px"
+    },
+    {
+      "id": "detective_service_silver",
+      "name": "Detective Service Ribbon (Silver Star)",
+      "category": "service_ribbon",
+      "order": 19,
+      "description": "15 años de servicio en unidades de investigación.",
+      "image": "https://static.wikia.nocookie.net/thecloser/images/0/0e/LAPD-Detective-Service-Ribbon-2.svg/revision/latest/scale-to-width-down/120?cb=20231019164512",
+      "max-width": "120px",
+      "max-height": "40px"
+    },
+    {
+      "id": "detective_service_gold",
+      "name": "Detective Service Ribbon (Gold Star)",
+      "category": "service_ribbon",
+      "order": 19,
+      "description": "20 años de servicio en unidades de investigación.",
+      "image": "https://static.wikia.nocookie.net/thecloser/images/3/38/LAPD-Detective-Service-Ribbon-3.svg/revision/latest/scale-to-width-down/120?cb=20231017182211",
+      "max-width": "120px",
+      "max-height": "40px"
+    },
+    {
+      "id": "reserve_service",
+      "name": "Reserve Service Ribbon",
+      "category": "reserve",
+      "order": 20,
+      "description": "Otorgada por 4000 horas de servicio como Reserve Police Officer.",
+      "image": "https://static.wikia.nocookie.net/thecloser/images/f/ff/LAPD-Reserve-Service-Ribbon.svg/revision/latest/scale-to-width-down/120?cb=20231015135333",
+      "max-width": "120px",
+      "max-height": "40px"
+    },
+    {
+      "id": "1984_olympic",
+      "name": "1984 Summer Olympics Ribbon",
+      "category": "event",
+      "order": 21,
+      "description": "Otorgada a cualquier oficial del LAPD que prestó servicio durante los Juegos Olímpicos de Verano de 1984, del 28 de julio al 12 de agosto de 1984.",
+      "image": "https://static.wikia.nocookie.net/thecloser/images/1/18/LAPD-1984-Summer-Olympics-Ribbon.svg/revision/latest/scale-to-width-down/120?cb=20231017182223",
+      "max-width": "120px",
+      "max-height": "40px"
+    },
+    {
+      "id": "1987_papal_visit",
+      "name": "1987 Papal Visit Ribbon",
+      "category": "event",
+      "order": 21,
+      "description": "Otorgada a cualquier oficial del LAPD que prestó servicio durante la visita pastoral del Papa Juan Pablo II en septiembre de 1987.",
+      "image": "https://static.wikia.nocookie.net/thecloser/images/5/52/LAPD-1987-Papal-Visit-Ribbon.svg/revision/latest/scale-to-width-down/120?cb=20231017182239",
+      "max-width": "120px",
+      "max-height": "40px"
+    },
+    {
+      "id": "1992_civil_unrest",
+      "name": "1992 Civil Emergency Response Ribbon",
+      "category": "event",
+      "order": 21,
+      "description": "Otorgada a cualquier oficial del LAPD que prestó servicio durante los disturbios de Los Ángeles de 1992, del 29 de abril al 4 de mayo de 1992.",
+      "image": "https://static.wikia.nocookie.net/thecloser/images/0/09/LAPD-1992-Civil-Emergency-Response-Ribbon.svg/revision/latest/scale-to-width-down/120?cb=20231017184537",
+      "max-width": "120px",
+      "max-height": "40px"
+    },
+    {
+      "id": "1994_earthquake",
+      "name": "1994 Earthquake Ribbon",
+      "category": "event",
+      "order": 21,
+      "description": "Otorgada a cualquier oficial del LAPD que prestó servicio durante el terremoto de Northridge de 1994, del 17 al 18 de enero de 1994.",
+      "image": "https://static.wikia.nocookie.net/thecloser/images/9/9e/LAPD-1994-Earthquake-Ribbon.svg/revision/latest/scale-to-width-down/120?cb=20240806160800",
+      "max-width": "120px",
+      "max-height": "40px"
+    },
+    {
+      "id": "2000_dnc",
+      "name": "2000 Democratic National Convention Ribbon",
+      "category": "event",
+      "order": 21,
+      "description": "Otorgada a cualquier oficial del LAPD que prestó servicio durante la Democratic National Convention del año 2000.",
+      "image": "https://static.wikia.nocookie.net/thecloser/images/4/48/LAPD-2000-Democratic-National-Convention-Ribbon.svg/revision/latest/scale-to-width-down/120?cb=20231017182336",
+      "max-width": "120px",
+      "max-height": "40px"
+    },
+    {
+      "id": "150th_anniversary",
+      "name": "2019 150th Anniversary Ribbon",
+      "category": "event",
+      "order": 21,
+      "description": "Autorizada para empleados uniformados que fueron miembros del LAPD desde el 1 de enero hasta el 31 de diciembre de 2019.",
+      "image": "https://static.wikia.nocookie.net/thecloser/images/e/e5/LAPD-2019-150th-Anniversary-Ribbon.svg/revision/latest/scale-to-width-down/120?cb=20231018144254",
+      "max-width": "120px",
+      "max-height": "40px"
+    },
+    {
+      "id": "covid19_safe_la",
+      "name": "COVID-19 / Safe LA Service Ribbon",
+      "category": "event",
+      "order": 21,
+      "description": "Otorgada a oficiales que prestaron servicio durante la respuesta a la pandemia de COVID-19 y a las operaciones del Safe LA Taskforce (2020-2021). Aprobada junto con la Reserve Exceptional Service Ribbon; la producción inicial fue limitada.",
+      "image": "",
+      "max-width": "120px",
+      "max-height": "40px"
+    },
+    {
+      "id": "urban_police_rifle",
+      "name": "Urban Police Rifle Cadre Ribbon",
+      "category": "qualification",
+      "order": 22,
+      "description": "Otorgada a cualquier oficial del LAPD cualificado para el uso del Urban Police Rifle (variante AR-15 en calibre .223).",
+      "image": "https://static.wikia.nocookie.net/thecloser/images/0/05/LAPD-Urban-Police-Rifle-Ribbon.svg/revision/latest/scale-to-width-down/120?cb=20231018150434",
+      "max-width": "120px",
+      "max-height": "40px"
+    },
+    {
+      "id": "shotgun_slug",
+      "name": "Shotgun Slug Ammunition Cadre Ribbon",
+      "category": "qualification",
+      "order": 23,
+      "description": "Otorgada a cualquier oficial del LAPD cualificado para el uso de munición slug en las escopetas reglamentarias del LAPD.",
+      "image": "https://static.wikia.nocookie.net/thecloser/images/3/34/LAPD-Shotgun-Slug-Ammunition-Ribbon.svg/revision/latest/scale-to-width-down/120?cb=20231018150449",
+      "max-width": "120px",
+      "max-height": "40px"
+    },
+    {
+      "id": "liberty_award",
+      "name": "Liberty Award",
+      "category": "bravery",
+      "order": 99,
+      "description": "Otorgada a los K-9 del LAPD que resultan muertos o gravemente heridos en el cumplimiento del deber. Nombrada en honor a K-9 Liberty, un K-9 de Metropolitan Division abatido durante un incidente en servicio. Solo se ha otorgado en contadas ocasiones.",
+      "image": "https://static.wikia.nocookie.net/thecloser/images/c/c8/LAPD-Liberty-Award.svg/revision/latest/scale-to-width-down/120?cb=20231019164920",
+      "max-width": "120px",
+      "max-height": "40px"
+    }
+  ],
+  "marksmanship_badges": [
+    {
+      "id": "distinguished_expert",
+      "name": "Distinguished Expert Marksmanship Badge",
+      "category": "marksmanship",
+      "order": 1,
+      "description": "La más alta insignia de tiro del LAPD. Otorgada al oficial que mantiene un promedio de 385 o más puntos (de 400 posibles) en el Bonus Course durante seis meses consecutivos. Miembros del elite '400 Club'.",
+      "image": "https://static.wikia.nocookie.net/thecloser/images/c/c8/LAPD-Distinguished-Expert-Marksmanship-Badge.png/revision/latest?cb=20180616140453",
+      "max-width": "60px",
+      "max-height": "80px"
+    },
+    {
+      "id": "expert",
+      "name": "Expert Marksmanship Badge",
+      "category": "marksmanship",
+      "order": 2,
+      "description": "Otorgada al oficial que obtiene una puntuación de 380 a 384 puntos (de 400 posibles) en el Bonus Course de calificación voluntaria.",
+      "image": "https://static.wikia.nocookie.net/thecloser/images/3/32/LAPD-Expert-Marksmanship-Badge.png/revision/latest?cb=20180616140605",
+      "max-width": "60px",
+      "max-height": "80px"
+    },
+    {
+      "id": "sharpshooter",
+      "name": "Sharpshooter Marksmanship Badge",
+      "category": "marksmanship",
+      "order": 3,
+      "description": "Otorgada al oficial que obtiene una puntuación de 340 a 379 puntos (de 400 posibles) en el curso de calificación.",
+      "image": "https://static.wikia.nocookie.net/thecloser/images/1/19/LAPD-Sharpshooter-Marksmanship-Badge.png/revision/latest?cb=20180616140629",
+      "max-width": "60px",
+      "max-height": "80px"
+    },
+    {
+      "id": "marksman",
+      "name": "Marksman Marksmanship Badge",
+      "category": "marksmanship",
+      "order": 4,
+      "description": "Otorgada al oficial que obtiene una puntuación de 300 a 339 puntos (de 400 posibles) en el curso de calificación. Se requiere un ring score de 280 o más para cualificar.",
+      "image": "https://static.wikia.nocookie.net/thecloser/images/5/51/LAPD-Marksman-Marksmanship-Badge.png/revision/latest?cb=20180616140652",
+      "max-width": "60px",
+      "max-height": "80px"
+    }
+  ],
+  "military_medals": {
+    "policy": "Per LAPD Manual Volume 3, Section 637, sworn LAPD members who are U.S. military veterans are authorized to wear ribbons or medals earned during military service on the Class A uniform during authorized events and inspections. When worn together with Department ribbons, military ribbons take precedence. Below are the principal U.S. Armed Forces decorations in standard DoD order of precedence.",
+    "personal_decorations": [
+      {
+        "id": "mil_medal_of_honor",
+        "name": "Medal of Honor",
+        "category": "military_personal_decoration",
+        "order": 1,
+        "description": "La más alta condecoración militar de EE.UU., otorgada por actos de valor personal intrepidez por encima y más allá del llamado del deber en combate contra un enemigo de los Estados Unidos.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Medal_of_Honor_ribbon.svg/120px-Medal_of_Honor_ribbon.svg.png",
+        "max-width": "120px",
+        "max-height": "40px"
+      },
+      {
+        "id": "mil_distinguished_service_cross",
+        "name": "Distinguished Service Cross (Army) / Navy Cross / Air Force Cross",
+        "category": "military_personal_decoration",
+        "order": 2,
+        "description": "La segunda más alta condecoración del Ejército, Marina y Fuerza Aérea, otorgada por extraordinario heroísmo en combate.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Distinguished_Service_Cross_ribbon.svg/120px-Distinguished_Service_Cross_ribbon.svg.png",
+        "max-width": "120px",
+        "max-height": "40px"
+      },
+      {
+        "id": "mil_defense_distinguished_service",
+        "name": "Defense Distinguished Service Medal",
+        "category": "military_personal_decoration",
+        "order": 5,
+        "description": "Otorgada por servicio excepcionalmente meritorio en un puesto de gran responsabilidad mientras se sirve en una actividad conjunta del Departamento de Defensa.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Defense_Distinguished_Service_Medal_ribbon.svg/120px-Defense_Distinguished_Service_Medal_ribbon.svg.png",
+        "max-width": "120px",
+        "max-height": "40px"
+      },
+      {
+        "id": "mil_distinguished_service",
+        "name": "Distinguished Service Medal (Army / Navy / Air Force / Coast Guard)",
+        "category": "military_personal_decoration",
+        "order": 6,
+        "description": "Otorgada por servicio excepcionalmente meritorio en un puesto de gran responsabilidad.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Army_DSM_ribbon.svg/120px-Army_DSM_ribbon.svg.png",
+        "max-width": "120px",
+        "max-height": "40px"
+      },
+      {
+        "id": "mil_silver_star",
+        "name": "Silver Star",
+        "category": "military_personal_decoration",
+        "order": 10,
+        "description": "La tercera más alta condecoración militar por valor, otorgada por galantería en acción contra un enemigo de los Estados Unidos.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Silver_Star_ribbon.svg/120px-Silver_Star_ribbon.svg.png",
+        "max-width": "120px",
+        "max-height": "40px"
+      },
+      {
+        "id": "mil_defense_superior_service",
+        "name": "Defense Superior Service Medal",
+        "category": "military_personal_decoration",
+        "order": 11,
+        "description": "Otorgada por servicio superior meritorio en un puesto de significativa responsabilidad mientras se sirve en una actividad conjunta.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Defense_Superior_Service_Medal_ribbon.svg/120px-Defense_Superior_Service_Medal_ribbon.svg.png",
+        "max-width": "120px",
+        "max-height": "40px"
+      },
+      {
+        "id": "mil_legion_of_merit",
+        "name": "Legion of Merit",
+        "category": "military_personal_decoration",
+        "order": 14,
+        "description": "Otorgada por servicio excepcionalmente meritorio o conducta ejemplar en el desempeño de servicios destacados.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Legion_of_Merit_ribbon.svg/120px-Legion_of_Merit_ribbon.svg.png",
+        "max-width": "120px",
+        "max-height": "40px"
+      },
+      {
+        "id": "mil_distinguished_flying_cross",
+        "name": "Distinguished Flying Cross",
+        "category": "military_personal_decoration",
+        "order": 15,
+        "description": "Otorgada por heroísmo o logro extraordinario durante la participación en vuelo aéreo.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Distinguished_Flying_Cross_ribbon.svg/120px-Distinguished_Flying_Cross_ribbon.svg.png",
+        "max-width": "120px",
+        "max-height": "40px"
+      },
+      {
+        "id": "mil_soldiers_medal",
+        "name": "Soldier's Medal / Navy & Marine Corps Medal / Airman's Medal",
+        "category": "military_personal_decoration",
+        "order": 16,
+        "description": "Otorgada por heroísmo no relacionado con combate que implica riesgo personal voluntario.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Soldier%27s_Medal_ribbon.svg/120px-Soldier%27s_Medal_ribbon.svg.png",
+        "max-width": "120px",
+        "max-height": "40px"
+      },
+      {
+        "id": "mil_bronze_star",
+        "name": "Bronze Star Medal",
+        "category": "military_personal_decoration",
+        "order": 20,
+        "description": "Otorgada por servicio heroico o meritorio en zona de combate (con dispositivo 'V' para valor).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Bronze_Star_ribbon.svg/120px-Bronze_Star_ribbon.svg.png",
+        "max-width": "120px",
+        "max-height": "40px"
+      },
+      {
+        "id": "mil_purple_heart",
+        "name": "Purple Heart (Military)",
+        "category": "military_personal_decoration",
+        "order": 21,
+        "description": "Otorgada en nombre del Presidente a miembros heridos o fallecidos como resultado de acción enemiga. No debe confundirse con el Purple Heart del LAPD.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Purple_Heart_ribbon.svg/120px-Purple_Heart_ribbon.svg.png",
+        "max-width": "120px",
+        "max-height": "40px"
+      },
+      {
+        "id": "mil_defense_meritorious_service",
+        "name": "Defense Meritorious Service Medal",
+        "category": "military_personal_decoration",
+        "order": 22,
+        "description": "Otorgada por servicio meritorio no combatiente en una actividad conjunta del DoD.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Defense_Meritorious_Service_Medal_ribbon.svg/120px-Defense_Meritorious_Service_Medal_ribbon.svg.png",
+        "max-width": "120px",
+        "max-height": "40px"
+      },
+      {
+        "id": "mil_meritorious_service",
+        "name": "Meritorious Service Medal",
+        "category": "military_personal_decoration",
+        "order": 23,
+        "description": "Otorgada por servicio meritorio sobresaliente no combatiente.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Meritorious_Service_Medal_ribbon.svg/120px-Meritorious_Service_Medal_ribbon.svg.png",
+        "max-width": "120px",
+        "max-height": "40px"
+      },
+      {
+        "id": "mil_air_medal",
+        "name": "Air Medal",
+        "category": "military_personal_decoration",
+        "order": 24,
+        "description": "Otorgada por logros meritorios durante vuelo aéreo.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Air_Medal_ribbon.svg/120px-Air_Medal_ribbon.svg.png",
+        "max-width": "120px",
+        "max-height": "40px"
+      },
+      {
+        "id": "mil_joint_service_commendation",
+        "name": "Joint Service Commendation Medal",
+        "category": "military_personal_decoration",
+        "order": 27,
+        "description": "Otorgada por servicio meritorio en una actividad conjunta del DoD.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Joint_Service_Commendation_Medal_ribbon.svg/120px-Joint_Service_Commendation_Medal_ribbon.svg.png",
+        "max-width": "120px",
+        "max-height": "40px"
+      },
+      {
+        "id": "mil_army_commendation",
+        "name": "Commendation Medal (Army / Navy & Marine Corps / Air Force / Coast Guard)",
+        "category": "military_personal_decoration",
+        "order": 28,
+        "description": "Otorgada por servicio meritorio sostenido, logro heroico o servicio ejemplar.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Army_Commendation_Medal_ribbon.svg/120px-Army_Commendation_Medal_ribbon.svg.png",
+        "max-width": "120px",
+        "max-height": "40px"
+      },
+      {
+        "id": "mil_joint_service_achievement",
+        "name": "Joint Service Achievement Medal",
+        "category": "military_personal_decoration",
+        "order": 32,
+        "description": "Otorgada por logros meritorios sobresalientes en una actividad conjunta del DoD.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Joint_Service_Achievement_Medal_ribbon.svg/120px-Joint_Service_Achievement_Medal_ribbon.svg.png",
+        "max-width": "120px",
+        "max-height": "40px"
+      },
+      {
+        "id": "mil_achievement",
+        "name": "Achievement Medal (Army / Navy & Marine Corps / Air Force / Coast Guard)",
+        "category": "military_personal_decoration",
+        "order": 33,
+        "description": "Otorgada por logros meritorios o servicios sobresalientes en puestos de no combate.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Army_Achievement_Medal_ribbon.svg/120px-Army_Achievement_Medal_ribbon.svg.png",
+        "max-width": "120px",
+        "max-height": "40px"
+      },
+      {
+        "id": "mil_combat_action",
+        "name": "Combat Action Ribbon / Combat Action Medal / Combat Infantryman Badge",
+        "category": "military_personal_decoration",
+        "order": 37,
+        "description": "Otorgada por participación activa en combate terrestre o marítimo contra fuerzas enemigas.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Navy_Combat_Action_Ribbon_ribbon.svg/120px-Navy_Combat_Action_Ribbon_ribbon.svg.png",
+        "max-width": "120px",
+        "max-height": "40px"
+      },
+      {
+        "id": "mil_pow",
+        "name": "Prisoner of War Medal",
+        "category": "military_personal_decoration",
+        "order": 64,
+        "description": "Otorgada a cualquier persona que haya sido prisionera de guerra después del 5 de abril de 1917.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Prisoner_of_War_Medal_ribbon.svg/120px-Prisoner_of_War_Medal_ribbon.svg.png",
+        "max-width": "120px",
+        "max-height": "40px"
+      }
+    ],
+    "good_conduct": [
+      {
+        "id": "mil_good_conduct",
+        "name": "Good Conduct Medal (Army / Navy / Marine Corps / Air Force / Coast Guard / Space Force)",
+        "category": "military_service",
+        "order": 65,
+        "description": "Otorgada por servicio ejemplar, conducta y eficiencia durante un período determinado de servicio activo.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Army_Good_Conduct_Medal_ribbon.svg/120px-Army_Good_Conduct_Medal_ribbon.svg.png",
+        "max-width": "120px",
+        "max-height": "40px"
+      },
+      {
+        "id": "mil_reserve_achievement",
+        "name": "Reserve Components Achievement / Meritorious Service Medals",
+        "category": "military_service",
+        "order": 73,
+        "description": "Otorgada por servicio meritorio sobresaliente como miembro de las fuerzas de reserva.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Army_Reserve_Components_Achievement_Medal_ribbon.svg/120px-Army_Reserve_Components_Achievement_Medal_ribbon.svg.png",
+        "max-width": "120px",
+        "max-height": "40px"
+      }
+    ],
+    "campaign_service": [
+      {
+        "id": "mil_national_defense",
+        "name": "National Defense Service Medal",
+        "category": "military_campaign",
+        "order": 96,
+        "description": "Otorgada por servicio honorable durante un período de conflicto nacional (Corea, Vietnam, Guerra del Golfo, GWOT).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/National_Defense_Service_Medal_ribbon.svg/120px-National_Defense_Service_Medal_ribbon.svg.png",
+        "max-width": "120px",
+        "max-height": "40px"
+      },
+      {
+        "id": "mil_armed_forces_expeditionary",
+        "name": "Armed Forces Expeditionary Medal",
+        "category": "military_campaign",
+        "order": 99,
+        "description": "Otorgada por participación en operaciones militares expedicionarias de EE.UU.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Armed_Forces_Expeditionary_Medal_ribbon.svg/120px-Armed_Forces_Expeditionary_Medal_ribbon.svg.png",
+        "max-width": "120px",
+        "max-height": "40px"
+      },
+      {
+        "id": "mil_vietnam_service",
+        "name": "Vietnam Service Medal",
+        "category": "military_campaign",
+        "order": 100,
+        "description": "Otorgada por servicio en Vietnam entre 1965 y 1973.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Vietnam_Service_Medal_ribbon.svg/120px-Vietnam_Service_Medal_ribbon.svg.png",
+        "max-width": "120px",
+        "max-height": "40px"
+      },
+      {
+        "id": "mil_southwest_asia",
+        "name": "Southwest Asia Service Medal",
+        "category": "military_campaign",
+        "order": 102,
+        "description": "Otorgada por servicio en la Guerra del Golfo (Operación Desert Shield/Storm).",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Southwest_Asia_Service_Medal_ribbon.svg/120px-Southwest_Asia_Service_Medal_ribbon.svg.png",
+        "max-width": "120px",
+        "max-height": "40px"
+      },
+      {
+        "id": "mil_kosovo_campaign",
+        "name": "Kosovo Campaign Medal",
+        "category": "military_campaign",
+        "order": 103,
+        "description": "Otorgada por servicio en operaciones militares en Kosovo.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Kosovo_Campaign_Medal_ribbon.svg/120px-Kosovo_Campaign_Medal_ribbon.svg.png",
+        "max-width": "120px",
+        "max-height": "40px"
+      },
+      {
+        "id": "mil_afghanistan_campaign",
+        "name": "Afghanistan Campaign Medal",
+        "category": "military_campaign",
+        "order": 104,
+        "description": "Otorgada por servicio en Afganistán a partir del 24 de octubre de 2001.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Afghanistan_Campaign_Medal_ribbon.svg/120px-Afghanistan_Campaign_Medal_ribbon.svg.png",
+        "max-width": "120px",
+        "max-height": "40px"
+      },
+      {
+        "id": "mil_iraq_campaign",
+        "name": "Iraq Campaign Medal",
+        "category": "military_campaign",
+        "order": 105,
+        "description": "Otorgada por servicio en Irak a partir del 19 de marzo de 2003.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Iraq_Campaign_Medal_ribbon.svg/120px-Iraq_Campaign_Medal_ribbon.svg.png",
+        "max-width": "120px",
+        "max-height": "40px"
+      },
+      {
+        "id": "mil_gwot_expeditionary",
+        "name": "Global War on Terrorism Expeditionary Medal",
+        "category": "military_campaign",
+        "order": 106,
+        "description": "Otorgada por servicio expedicionario en la Guerra Global contra el Terrorismo.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Global_War_on_Terrorism_Expeditionary_Medal_ribbon.svg/120px-Global_War_on_Terrorism_Expeditionary_Medal_ribbon.svg.png",
+        "max-width": "120px",
+        "max-height": "40px"
+      },
+      {
+        "id": "mil_gwot_service",
+        "name": "Global War on Terrorism Service Medal",
+        "category": "military_campaign",
+        "order": 107,
+        "description": "Otorgada por servicio de apoyo en la Guerra Global contra el Terrorismo después del 11 de septiembre de 2001.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Global_War_on_Terrorism_Service_Medal_ribbon.svg/120px-Global_War_on_Terrorism_Service_Medal_ribbon.svg.png",
+        "max-width": "120px",
+        "max-height": "40px"
+      },
+      {
+        "id": "mil_armed_forces_service",
+        "name": "Armed Forces Service Medal",
+        "category": "military_campaign",
+        "order": 109,
+        "description": "Otorgada por participación en operaciones militares significativas sin confrontación enemiga.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Armed_Forces_Service_Medal_ribbon.svg/120px-Armed_Forces_Service_Medal_ribbon.svg.png",
+        "max-width": "120px",
+        "max-height": "40px"
+      },
+      {
+        "id": "mil_humanitarian_service",
+        "name": "Humanitarian Service Medal",
+        "category": "military_campaign",
+        "order": 110,
+        "description": "Otorgada por servicio humanitario directo y significativo.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Humanitarian_Service_Medal_ribbon.svg/120px-Humanitarian_Service_Medal_ribbon.svg.png",
+        "max-width": "120px",
+        "max-height": "40px"
+      },
+      {
+        "id": "mil_armed_forces_reserve",
+        "name": "Armed Forces Reserve Medal",
+        "category": "military_campaign",
+        "order": 114,
+        "description": "Otorgada por 10 años de servicio en las fuerzas de reserva o Guardia Nacional.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Armed_Forces_Reserve_Medal_ribbon.svg/120px-Armed_Forces_Reserve_Medal_ribbon.svg.png",
+        "max-width": "120px",
+        "max-height": "40px"
+      },
+      {
+        "id": "mil_army_service",
+        "name": "Army Service Ribbon / Service Ribbons (by branch)",
+        "category": "military_campaign",
+        "order": 117,
+        "description": "Otorgada por completar el entrenamiento inicial y unirse al servicio activo.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Army_Service_Ribbon.svg/120px-Army_Service_Ribbon.svg.png",
+        "max-width": "120px",
+        "max-height": "40px"
+      },
+      {
+        "id": "mil_overseas_service",
+        "name": "Overseas Service Ribbon (Army / Navy / Air Force)",
+        "category": "military_campaign",
+        "order": 118,
+        "description": "Otorgada por servicio militar en el extranjero completo exitosamente.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Army_Overseas_Service_Ribbon.svg/120px-Army_Overseas_Service_Ribbon.svg.png",
+        "max-width": "120px",
+        "max-height": "40px"
+      }
+    ],
+    "unit_awards": [
+      {
+        "id": "mil_presidential_unit_citation",
+        "name": "Presidential Unit Citation (Army / Navy / Air Force)",
+        "category": "military_unit",
+        "order": 41,
+        "description": "La más alta condecoración de unidad, otorgada por extraordinary heroísmo en acción contra un enemigo armado.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Army_Presidential_Unit_Citation_ribbon.svg/120px-Army_Presidential_Unit_Citation_ribbon.svg.png",
+        "max-width": "120px",
+        "max-height": "40px"
+      },
+      {
+        "id": "mil_joint_meritorious_unit",
+        "name": "Joint Meritorious Unit Award",
+        "category": "military_unit",
+        "order": 45,
+        "description": "Otorgada a unidades por servicio meritorio extraordinario en una actividad conjunta del DoD.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Joint_Meritorious_Unit_Award_ribbon.svg/120px-Joint_Meritorious_Unit_Award_ribbon.svg.png",
+        "max-width": "120px",
+        "max-height": "40px"
+      },
+      {
+        "id": "mil_valorous_unit",
+        "name": "Valorous Unit Award (Army) / Navy Unit Commendation / Gallant Unit Citation",
+        "category": "military_unit",
+        "order": 46,
+        "description": "Otorgada por heroísmo extraordinario en acción contra un enemigo armado, en grado menor al Presidential Unit Citation.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Army_Valorous_Unit_Award_ribbon.svg/120px-Army_Valorous_Unit_Award_ribbon.svg.png",
+        "max-width": "120px",
+        "max-height": "40px"
+      },
+      {
+        "id": "mil_meritorious_unit",
+        "name": "Meritorious Unit Commendation (Army / Navy / Air Force / Coast Guard)",
+        "category": "military_unit",
+        "order": 50,
+        "description": "Otorgada por servicio meritorio excepcional durante al menos seis meses continuos.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Army_Meritorious_Unit_Commendation_ribbon.svg/120px-Army_Meritorious_Unit_Commendation_ribbon.svg.png",
+        "max-width": "120px",
+        "max-height": "40px"
+      }
+    ]
+  }
+}
